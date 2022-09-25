@@ -1,4 +1,5 @@
-<img src="imagens/logo_mmm_body.png" align="right" width="300">
+ 
+<img src="https://www.projetomeninamocamulher.org.br/prontuario/images/logo_mmm_body.png" align="right" width="400">
 
 # Projeto Menina Moça Mulher (mmm)
 
@@ -9,11 +10,11 @@ Material público para o Sistema mmm. Acesse o material em PDF, analise o códig
 ***
  Material disponível
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/libremed/doc/doc-pdf)
-* [Modelo de dados disponível para o sistema](https://github.com/libremed/doc/docmod-pdf) 
+* [Acesse os PDFs das aulas clicando aqui](https://github.com/libremed/doc/doc-pdf) :point_left:
+* [Modelo de dados disponível para o sistema](https://github.com/libremed/doc/docmod-pdf) :point_left:
 
 **_Quer Conhecer o projeto:_**
- [click aqui](https://https://www.projetomeninamocamulher.org.br/prontuario/index.php) 
+ [click aqui](https://www.projetomeninamocamulher.org.br/prontuario/index.php)  
 
 
 ## Direitos de uso
